@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@0;1&family=Poppins:ital,1,400&display=swap');
+
+.card-secure{
+background: linear-gradient(180deg, #544F51 0%, rgba(84, 79, 81, 0.16) 100%);
+border: 0.99766px solid rgba(255, 255, 255, 0.06);
+box-sizing: border-box;
+box-shadow: inset 0px 1.99532px 3.99064px rgba(255, 255, 255, 0.05);
+border-radius: 4.9883px;
+height:370px;
+transition: all .5s linear;
+}
+.card-secure:hover {
+ background-color:gray;
+
+
+ 
+}
+.icons-url{
+    height:120px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 13.6706px;
+    color:#f1ecec;
+}
+.cards-title{
+   font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 17.5765px;
+    /* text-align: justify; */
+    /* text-align: center; */
+}
+.secures-text{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 13.6706px;
+    color:#f1ecec;
+   
+      
+      /* text-justify: inter-word; */
+
+}
+.img-card{
+    background-color:blueviolet;
+    padding: 7px;
+    border-radius: 4px;
+}
+.know{
+font-family: 'Lato', sans-serif;
+font-weight: 600;
+font-size: 14.9649px;
+}

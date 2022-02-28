@@ -1,0 +1,76 @@
+.know{
+font-weight: 600;
+font-size: 14.9649px;
+}
+.card-secure{
+background: linear-gradient(180deg, #544F51 0%, rgba(84, 79, 81, 0.16) 100%);
+border: 0.99766px solid rgba(255, 255, 255, 0.06);
+box-sizing: border-box;
+box-shadow: inset 0px 1.99532px 3.99064px rgba(255, 255, 255, 0.05);
+border-radius: 4.9883px;
+height:330px;
+
+}
+.cards-it{
+    height: 55px;
+}
+.modals{
+background: linear-gradient(180deg, #544F51 0%, rgba(84, 79, 81, 0.16) 100%);
+border: 0.99766px solid rgba(255, 255, 255, 0.06);
+box-sizing: border-box;
+box-shadow: inset 0px 1.99532px 3.99064px rgba(255, 255, 255, 0.05);
+border-radius: 4.9883px;
+height:150px;
+transition: all .5s linear;
+}
+.modals:hover{
+    background-color: gray;
+}
+.modals-text{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    color:black
+      
+      /* text-justify: inter-word; */
+
+}
+.cards-text{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 13.6706px;
+    color:#f1ecec;
+    height:110px;
+}
+.card{
+background: linear-gradient(180deg, #544F51 0%, rgba(84, 79, 81, 0.16) 100%);
+border: 0.99766px solid rgba(255, 255, 255, 0.06);
+box-sizing: border-box;
+box-shadow: inset 0px 1.99532px 3.99064px rgba(255, 255, 255, 0.05);
+border-radius: 4.9883px;
+height:315px;
+transition: all .5s linear;
+
+}
+.card:hover{
+    background-color:gray;
+
+}
+.modal-descript{
+    color:white;
+    font-size: 10px;
+}
+.img-card{
+    background-color:blueviolet;
+    padding: 7px;
+    border-radius: 4px;
+}
+.modal-body {
+    background-color: #161A1A;
+}
+.modal-header{
+    background-color: #161A1A;
+}
+.modals-text{
+    color:white;
+}
